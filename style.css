@@ -1,0 +1,11 @@
+:root {
+    --decorative-color:	#FF0000;
+}
+
+.nav-ul{
+    color:var(--decorative-color);
+}
+
+.font {
+    font-size: 24px;
+}
